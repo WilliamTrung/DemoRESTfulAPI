@@ -1,0 +1,15 @@
+E:\Source_code\DemoAPISolution\Mapping\bin\Debug\net6.0\Mapping.deps.json
+E:\Source_code\DemoAPISolution\Mapping\bin\Debug\net6.0\Mapping.dll
+E:\Source_code\DemoAPISolution\Mapping\bin\Debug\net6.0\Mapping.pdb
+E:\Source_code\DemoAPISolution\Mapping\bin\Debug\net6.0\Data.dll
+E:\Source_code\DemoAPISolution\Mapping\bin\Debug\net6.0\Data.pdb
+E:\Source_code\DemoAPISolution\Mapping\obj\Debug\net6.0\Mapping.csproj.AssemblyReference.cache
+E:\Source_code\DemoAPISolution\Mapping\obj\Debug\net6.0\Mapping.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source_code\DemoAPISolution\Mapping\obj\Debug\net6.0\Mapping.AssemblyInfoInputs.cache
+E:\Source_code\DemoAPISolution\Mapping\obj\Debug\net6.0\Mapping.AssemblyInfo.cs
+E:\Source_code\DemoAPISolution\Mapping\obj\Debug\net6.0\Mapping.csproj.CoreCompileInputs.cache
+E:\Source_code\DemoAPISolution\Mapping\obj\Debug\net6.0\Mapping.csproj.CopyComplete
+E:\Source_code\DemoAPISolution\Mapping\obj\Debug\net6.0\Mapping.dll
+E:\Source_code\DemoAPISolution\Mapping\obj\Debug\net6.0\refint\Mapping.dll
+E:\Source_code\DemoAPISolution\Mapping\obj\Debug\net6.0\Mapping.pdb
+E:\Source_code\DemoAPISolution\Mapping\obj\Debug\net6.0\ref\Mapping.dll

@@ -1,0 +1,14 @@
+E:\Source_code\DemoAPISolution\Data\bin\Debug\net6.0\Data.deps.json
+E:\Source_code\DemoAPISolution\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+E:\Source_code\DemoAPISolution\Data\bin\Debug\net6.0\Data.dll
+E:\Source_code\DemoAPISolution\Data\bin\Debug\net6.0\Data.pdb
+E:\Source_code\DemoAPISolution\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+E:\Source_code\DemoAPISolution\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source_code\DemoAPISolution\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+E:\Source_code\DemoAPISolution\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+E:\Source_code\DemoAPISolution\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+E:\Source_code\DemoAPISolution\Data\obj\Debug\net6.0\Data.dll
+E:\Source_code\DemoAPISolution\Data\obj\Debug\net6.0\refint\Data.dll
+E:\Source_code\DemoAPISolution\Data\obj\Debug\net6.0\Data.pdb
+E:\Source_code\DemoAPISolution\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+E:\Source_code\DemoAPISolution\Data\obj\Debug\net6.0\ref\Data.dll
